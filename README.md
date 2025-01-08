@@ -44,10 +44,11 @@
     <main>
         <h1>RESULT FOR LAT</h1>
         <div class="details">
-            <p><strong>Name:</strong> Sulaiman Khan</p>
+            <p><strong>Name:</strong> Suleman Khan</p>
             <p><strong>Father's Name:</strong> Gulzar Khan</p>
-            <p><strong>Roll No:</strong> 161231</p>
+            <p><strong>Roll No:</strong> 161321</p>
             <p><strong>Status:</strong> Pass</p>
+            <p><strong>Marks Obtained:</strong> 62</p>
         </div>
     </main>
     <footer>
